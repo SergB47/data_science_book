@@ -1,1 +1,1 @@
-## Examples from book Python for Programmers: with Big Data and Artificial Intelligence Case Studies 
+## Examples from book Python for Programmers: with Big Data and Artificial Intelligence Case Studies
